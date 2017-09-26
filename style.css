@@ -1,0 +1,51 @@
+body {
+  background-color: green;
+}
+#header {
+  background-color: blue;
+  color: lime;
+  font-family: 'Crimson Text', serif;
+  height: 90pt;
+  display: block;
+}
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.header-title {
+  float: left;
+}
+.header-list {
+  float: right;
+}
+.header-list li {
+  display: inline;
+}
+#content {
+  display: block;
+  background-color: green;
+  font-family: 'Crimson Text', serif;
+  color: lavender;
+  height: auto;
+}
+#content a {
+  color: lavender;
+  text-decoration: none;
+}
+.blog-post {
+  background-color: green;
+  margin: 2pt;
+}
+#footer {
+  background-color: black;
+  display: block;
+  color: white;
+  font-family: 'Crimson Text', serif;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+.nav-column li {
+  display: inline;
+}
